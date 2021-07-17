@@ -1,2 +1,2 @@
 # REST-Client-Server
-Simple demonstration of how REST works using Python
+Demonstrating how REST works using Python
